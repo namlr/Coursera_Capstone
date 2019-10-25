@@ -5,4 +5,4 @@ Access to project Jupyter notebook here: [Link](https://github.com/namlr/Courser
 
 Segmenting and Clustering Neighborhoods in Toronto Notebook: [Link](https://github.com/namlr/Coursera_Capstone/blob/master/Neighborhoods_in_city_of_Toronto.ipynb)
 
-Notebook url with combined geocode dataframe: [Link](https://github.com/namlr/Coursera_Capstone/blob/master/Neighborhoods_in_city_of_Toronto.ipynb)
+Notebook url with combined geocode dataframe: [Link](https://github.com/namlr/Coursera_Capstone/blob/master/Neighborhoods_in_city_of_Toronto_1.ipynb)
